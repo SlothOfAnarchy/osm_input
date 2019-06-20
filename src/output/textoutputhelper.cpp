@@ -20,7 +20,7 @@
 #include "textoutputhelper.h"
 
 #include <iomanip>
-#include <math.h>
+#include <cmath>
 
 #include "osmpoi.h"
 
